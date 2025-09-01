@@ -1,7 +1,17 @@
-# Positivus Landing Page
-Reworked figma layout from the internet into HTML, CSS and a bit of JS.
+# Positivus – Figma Layout Implementation
 
-![Preview](https://public-files.gumroad.com/hf7vbq6lfdzic8z1fucv61k4oims)
+This project is a **pixel-perfect implementation** of the **Positivus** design from Figma.  
+The goal was to practice adaptive layout and add interactivity using vanilla JavaScript.
 
-Links:
-  1. [Layout](https://www.figma.com/design/STneual0Nu4hDpD21e3bc0/Positivus-Landing-Page-Design--Community-?node-id=25-145&p=f&t=RZ8xlsndzaNaSp7T-0)
+## 🚀 Tech Stack
+- **HTML5** – semantic markup  
+- **CSS3** – Flexbox, Grid, responsive design  
+- **JavaScript (ES6)** – interactivity and dynamic elements  
+- **BEM methodology** for clean and scalable code  
+
+## ✨ Features
+- Fully responsive layout  
+- Pixel-perfect design based on the Figma mockup  
+- Interactive elements (burger menu, smooth scroll, etc.)  
+
+## 📂 Project Structure
