@@ -18,15 +18,15 @@ The goal was to practice layout and add interactivity using vanilla JavaScript.
 ```
 Positivus/
  ├─ assets/
- │   └─ img/       # Все изображения проекта
+ │   └─ img/       # All images project
  │
  ├─ js/
- │   └─ main.js    # Основной JS-файл
+ │   └─ main.js    # Main JS file
  │
  ├─ styles/
- │   └─ style.css  # Основной CSS-файл
+ │   └─ style.css  # Main CSS file
  │
- ├─ .gitignore     # Игнор ненужных файлов
- ├─ README.md      # Описание проекта
- └─ index.html     # Главная страница 
+ ├─ .gitignore     # Ignore unnecessary files
+ ├─ README.md      # Project Description
+ └─ index.html     # Home page 
 ```
