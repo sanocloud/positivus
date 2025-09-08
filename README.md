@@ -17,14 +17,14 @@ The goal was to practice layout and add interactivity using vanilla JavaScript.
 
 ```Positivus/
  ├─ assets/
- │   └─ img/
+ │   └─ img/          # Все изображения проекта
  │
  ├─ js/
- │   └─ main.js
+ │   └─ main.js       # Основной JS-файл
  │
  ├─ styles/
- │   └─ style.css
+ │   └─ style.css     # Основной CSS-файл
  │
- ├─ .gitignore
- ├─ README.md
- └─ index.html```
+ ├─ .gitignore        # Игнор ненужных файлов
+ ├─ README.md         # Описание проекта
+ └─ index.html        # Главная страница ```
