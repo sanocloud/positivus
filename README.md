@@ -14,3 +14,15 @@ The goal was to practice layout and add interactivity using vanilla JavaScript.
 - Interactive elements (burger menu, smooth scrolling, etc.)  
 
 ## 📂 Project Structure
+
+Positivus/
+ ├─ assets/
+ │   └─ img/          # Все изображения проекта
+ │
+ ├─ js/
+ │   └─ main.js       # Основной JS-файл
+ │
+ ├─ styles/
+ │   └─ style.css     # Основной CSS-файл
+ │
+ └─ index.html        # Главная страница
