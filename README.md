@@ -17,12 +17,14 @@ The goal was to practice layout and add interactivity using vanilla JavaScript.
 
 Positivus/
  ├─ assets/
- │   └─ img/          # Все изображения проекта
+ │   └─ img/
  │
  ├─ js/
- │   └─ main.js       # Основной JS-файл
+ │   └─ main.js
  │
  ├─ styles/
- │   └─ style.css     # Основной CSS-файл
+ │   └─ style.css
  │
- └─ index.html        # Главная страница
+ ├─ .gitignore
+ ├─ README.md
+ └─ index.html
