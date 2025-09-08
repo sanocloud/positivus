@@ -6,7 +6,7 @@ The goal was to practice layout and add interactivity using vanilla JavaScript.
 ## 🚀 Tech Stack
 - **HTML5** – semantic markup  
 - **CSS3** – Flexbox, Grid  
-- **JavaScript (ES6)** – interactivity and dynamic elements  
+- **JavaScript** – interactivity and dynamic elements  
 - **BEM methodology** for clean and structured code  
 
 ## ✨ Features
