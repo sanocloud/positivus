@@ -15,7 +15,7 @@ The goal was to practice layout and add interactivity using vanilla JavaScript.
 
 ## 📂 Project Structure
 
-Positivus/
+```Positivus/
  ├─ assets/
  │   └─ img/
  │
@@ -27,4 +27,4 @@ Positivus/
  │
  ├─ .gitignore
  ├─ README.md
- └─ index.html
+ └─ index.html```
